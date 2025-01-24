@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LinuxCCiReact/static/css/main.f855e6bc.css",
+    "main.js": "/LinuxCCiReact/static/js/main.ebd506f1.js",
+    "static/js/488.e51a300a.chunk.js": "/LinuxCCiReact/static/js/488.e51a300a.chunk.js",
+    "service-worker.js": "/LinuxCCiReact/service-worker.js",
+    "static/media/logo.svg": "/LinuxCCiReact/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/LinuxCCiReact/index.html",
+    "main.f855e6bc.css.map": "/LinuxCCiReact/static/css/main.f855e6bc.css.map",
+    "main.ebd506f1.js.map": "/LinuxCCiReact/static/js/main.ebd506f1.js.map",
+    "488.e51a300a.chunk.js.map": "/LinuxCCiReact/static/js/488.e51a300a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ebd506f1.js"
+  ]
+}
